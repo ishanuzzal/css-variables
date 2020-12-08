@@ -9,7 +9,7 @@ img{
     padding:var(--spacing);
     background:var(--base);
     border-radius: var(--border-radius);
-    width: 70%;
+    width: 40%;
     height: var(--height);
     margin-right: auto;
     margin-left:auto ;
